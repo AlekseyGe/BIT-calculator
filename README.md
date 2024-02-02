@@ -1,4 +1,4 @@
-# BIT-calculator
-This is BIT calculator
+# BMI-calculator
+This is BMI calculator
 
 ![Screenshot](pic.png)
